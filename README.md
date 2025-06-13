@@ -45,4 +45,6 @@ a href=http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onionimg 
 
 This guide is strictly intended for educational purposes. The information that is provided aims to enhance awareness and understanding of darknet operations. We do not endorse, and we do not promote any illegal activities. Always adhere to the applicable laws, and regulations, in your jurisdiction.
 
-Update: url is now available and working
+
+
+Update: Updated IDE configuration documentation
