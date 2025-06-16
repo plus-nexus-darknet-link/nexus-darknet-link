@@ -47,4 +47,6 @@ This guide is strictly intended for educational purposes. The information that i
 
 
 
-Update: Updated IDE configuration documentation
+
+
+Update: url is now clickable and functioning
