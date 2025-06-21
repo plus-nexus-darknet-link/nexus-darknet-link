@@ -51,4 +51,6 @@ This guide is strictly intended for educational purposes. The information that i
 
 
 
-Update: APIs updated
+
+
+Update: url is now clickable and functioning
