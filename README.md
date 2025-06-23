@@ -53,4 +53,6 @@ This guide is strictly intended for educational purposes. The information that i
 
 
 
-Update: url is now clickable and functioning
+
+
+Update: Awesome! The link is up and running.
