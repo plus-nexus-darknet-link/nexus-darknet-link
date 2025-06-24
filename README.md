@@ -55,4 +55,6 @@ This guide is strictly intended for educational purposes. The information that i
 
 
 
-Update: Awesome! The link is up and running.
+
+
+Update: Updated IDE configuration documentation
