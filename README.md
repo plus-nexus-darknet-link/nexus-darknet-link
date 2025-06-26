@@ -57,4 +57,6 @@ This guide is strictly intended for educational purposes. The information that i
 
 
 
-Update: Updated IDE configuration documentation
+
+
+Update:  26.06.2025 07:44:16 Thumbnail URLs
