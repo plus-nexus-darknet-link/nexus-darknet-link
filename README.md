@@ -59,4 +59,6 @@ This guide is strictly intended for educational purposes. The information that i
 
 
 
-Update:  26.06.2025 07:44:16 Thumbnail URLs
+
+
+Update:  07/04/2025 04-31 Fixed broken links in troubleshooting guide
