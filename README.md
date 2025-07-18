@@ -65,4 +65,6 @@ This guide is strictly intended for educational purposes. The information that i
 
 
 
-Update: link is back up and running
+
+
+Update: url is now available
