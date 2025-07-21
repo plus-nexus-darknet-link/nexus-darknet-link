@@ -67,4 +67,6 @@ This guide is strictly intended for educational purposes. The information that i
 
 
 
-Update: url is now available
+
+
+Update:  21 July Good news! The link is alive and well.
