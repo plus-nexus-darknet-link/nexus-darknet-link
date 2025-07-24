@@ -69,4 +69,6 @@ This guide is strictly intended for educational purposes. The information that i
 
 
 
-Update:  21 July Good news! The link is alive and well.
+
+
+Update:  07/24/2025 11-53
